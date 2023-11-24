@@ -142,7 +142,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg) no-repeat;
+    background: url(pexels-george-becker-216798.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -635,7 +635,10 @@ header .fa-bars{
 @media (max-width: 1200px)
 {
    
-
+.contactInfo{
+    display: none;
+    visibility: hidden;
+}
     .container .contactInfo
     {
         top: 0;
